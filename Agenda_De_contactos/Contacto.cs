@@ -28,6 +28,8 @@ public class Contacto
     // Método para mostrar la información del contacto
     public void MostrarInformacion()
     {
+
+
         Console.WriteLine($"Id: {Id}");
         Console.WriteLine($"Nombre: {Nombre} {Apellido}");
         Console.WriteLine($"Teléfono: {Telefono}");
