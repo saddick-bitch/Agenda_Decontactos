@@ -35,5 +35,6 @@ public class Contacto
         Console.WriteLine($"Dirección: {Direccion}");
         Console.WriteLine($"Fecha de Nacimiento: {FechaNacimiento.ToShortDateString()}");
         Console.WriteLine($"Fecha de Creación: {FechaCreacion.ToShortDateString()}");
+
     }
 }
